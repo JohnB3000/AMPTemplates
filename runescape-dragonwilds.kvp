@@ -30,6 +30,7 @@ Meta.Description=Dedicated server for RuneScape: Dragonwilds (Unreal Engine 5 su
 Meta.DisplayImageSource=steam:1374490
 Meta.DisplayName=RuneScape: Dragonwilds
 Meta.EndpointURIFormat=
+Meta.MinAMPVersion=2.5.0.0
 Meta.OS=1
 Meta.URL=https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
 Meta.AppConfigId=a1b2c3d4-e5f6-7890-abcd-ef1234567890
