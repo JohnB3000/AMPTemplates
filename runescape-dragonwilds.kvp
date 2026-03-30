@@ -32,4 +32,4 @@ Meta.DisplayName=RuneScape: Dragonwilds
 Meta.EndpointURIFormat=
 Meta.OS=1
 Meta.URL=https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
-GenericModule.Meta.AppConfigId=runescape-dragonwilds
+Meta.AppConfigId=a1b2c3d4-e5f6-7890-abcd-ef1234567890
