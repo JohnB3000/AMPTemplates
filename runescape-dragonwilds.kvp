@@ -1,0 +1,34 @@
+App.AdminMethod=STDIO
+App.ApplicationPort1=7777
+App.ApplicationReadyMode=RegexMatch
+App.BaseDirectory=./runescape-dragonwilds/4019830/
+App.CommandLineArgs=OwnerID={OwnerID} ServerName={ServerName} DefaultWorldName={DefaultWorldName} AdminPassword={AdminPassword} WorldPassword={WorldPassword}
+App.CommandLineParameterDelimiter= 
+App.CommandLineParameterFormat={0}={1}
+App.DisplayName=RuneScape: Dragonwilds
+App.EnvironmentVariables={"LD_LIBRARY_PATH": "./linux64:%LD_LIBRARY_PATH%", "SteamAppId": "4019830"}
+App.ExecutableLinux=4019830/RSDragonwilds.sh
+App.ExecutableWin=4019830\RSDragonwilds.exe
+App.ExitMethod=WM_CLOSE
+App.ExitString=stop
+App.HasReadableConsole=true
+App.HasWritableConsole=true
+App.RapidStartup=false
+App.RootDir=./runescape-dragonwilds/
+App.UpdateSource=Multi
+App.UpdateSources=[{"UpdateStageName": "SteamCMD Download","UpdateSourcePlatform": "All", "UpdateSource": "SteamCMD", "UpdateSourceData": "4019830"}]
+App.WorkingDir=4019830
+Console.AppReadyRegex=^.*Server is ready.*$
+Console.ThrowawayMessageRegex=^.*LogTick.*$
+Console.UserChatRegex=
+Console.UserJoinRegex=^.*Player (?P<username>.+) has joined.*$
+Console.UserLeaveRegex=^.*Player (?P<username>.+) has left.*$
+Meta.Author=John Brzoza
+Meta.ConfigManifest=runescape-dragonwildsconfig.json
+Meta.ConfigRoot=runescape-dragonwilds.kvp
+Meta.Description=Dedicated server for RuneScape: Dragonwilds (Unreal Engine 5 survival co-op)
+Meta.DisplayImageSource=steam:1374490
+Meta.DisplayName=RuneScape: Dragonwilds
+Meta.EndpointURIFormat=
+Meta.OS=1
+Meta.URL=https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
