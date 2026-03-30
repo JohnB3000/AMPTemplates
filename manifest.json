@@ -1,0 +1,13 @@
+{
+  "id": "johnb3000-templates",
+  "origin": "JohnB3000/AMPTemplates",
+  "url": "https://github.com/JohnB3000/AMPTemplates",
+  "prefix": "johnb3000",
+  "configs": [
+    {
+      "name": "RuneScape: Dragonwilds",
+      "kvp": "runescape-dragonwilds.kvp",
+      "config": "runescape-dragonwildsconfig.json"
+    }
+  ]
+}
