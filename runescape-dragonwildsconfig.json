@@ -1,0 +1,67 @@
+[
+    {
+        "DisplayName": "Owner ID",
+        "Category": "",
+        "Description": "Your RuneScape: Dragonwilds Player ID. Found in-game at the bottom of the Settings Menu. Server will not start without this.",
+        "Keywords": "",
+        "FieldName": "OwnerID",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "OwnerID",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Name",
+        "Category": "",
+        "Description": "The name of your server as it appears in the server list.",
+        "Keywords": "",
+        "FieldName": "ServerName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerName",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "My Dragonwilds Server",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Default World Name",
+        "Category": "",
+        "Description": "The name of the default world created on first startup.",
+        "Keywords": "",
+        "FieldName": "DefaultWorldName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "DefaultWorldName",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "Ashenfall",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Admin Password",
+        "Category": "",
+        "Description": "Password that grants admin access via the Server Management tab in-game.",
+        "Keywords": "",
+        "FieldName": "AdminPassword",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "AdminPassword",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "World Password",
+        "Category": "",
+        "Description": "Optional password to restrict who can join the server.",
+        "Keywords": "",
+        "FieldName": "WorldPassword",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "WorldPassword",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
